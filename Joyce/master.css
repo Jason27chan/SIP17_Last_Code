@@ -1,0 +1,9 @@
+body {
+  background-color: powderblue
+}
+h1 {color:purple; font-family: "Comic Sans MS", Helvetica;}
+p {
+  font-family: Georgia;
+  font-size: 200%
+  border: 1px solid black;
+}
